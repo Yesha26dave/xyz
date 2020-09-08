@@ -1,0 +1,24 @@
+.main div{
+	background: black;
+	color: white;
+}
+
+
+#quote{
+		font-family: "Comic Sans MS";
+		color:orange;
+}
+.movie{
+		color:white;
+		background: black;
+}
+span#clgname{
+		text-transform: uppercase;
+}
+.food{
+	background: green;
+	color: white;
+}
+p[id]{
+	background: purple;
+}

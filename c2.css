@@ -1,0 +1,37 @@
+a:hover{
+	background: black;
+	color: white;
+}
+body{
+	background: skyblue;
+}
+.wrapper{
+	margin: 0 auto;
+	background: white;
+	width: 800px;
+	height: 200px;
+}
+#para-1{
+		word-spacing: 10px;
+}
+#para-2{
+		letter-spacing: 10px;
+		word-spacing: 10px;
+}
+ul{
+	list-style: none;
+}
+ul{
+	list-style: bullet;
+}
+ol{
+	list-style-type: lower-alpha;
+}
+#para-1{
+	content: "good";
+}
+.center{
+	text-shadow;
+	margin: 20
+	text-align: center;
+}
